@@ -48,6 +48,9 @@ gem 'bootstrap', '~> 5.1', '>= 5.1.3'
 # jQuery
 gem 'jquery-rails'
 
+# Font Awesome
+gem "font-awesome-rails"
+
 # Use Sass to process CSS
 # gem "sassc-rails"
 
