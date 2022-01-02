@@ -51,6 +51,9 @@ gem 'jquery-rails'
 # Font Awesome
 gem "font-awesome-rails"
 
+# SimpleForm
+gem 'simple_form'
+
 # Use Sass to process CSS
 # gem "sassc-rails"
 
