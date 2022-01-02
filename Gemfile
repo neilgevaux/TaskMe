@@ -54,6 +54,9 @@ gem "font-awesome-rails"
 # SimpleForm
 gem 'simple_form'
 
+# Devise 4.0
+gem 'devise'
+
 # Use Sass to process CSS
 # gem "sassc-rails"
 
